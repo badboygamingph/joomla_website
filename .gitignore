@@ -1,0 +1,9 @@
+# Joomla .gitignore
+administrator/cache/*
+!administrator/cache/index.html
+cache/*
+!cache/index.html
+administrator/logs/*
+!administrator/logs/index.html
+tmp/*
+!tmp/index.html
